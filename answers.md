@@ -1,25 +1,25 @@
 Answer 1: git version 2.17.1  
 
 Answer 2: user.name=Nathan Bennett  
-	  user.email=nb566818@ohio.edu
+	  user.email=nb566818@ohio.edu  
 
 Answer 3: This command displays the usage of the 'git' command, and it displays common Git commands grouped by their function.
 
 Answer 4:  
 On branch master
 
-No commits yet
+No commits yet  
 
-Untracked files:
+Untracked files:  
   (use "git add <file>..." to include in what will be committed)
 
 	README.md
 	answers.md
 
 Answer 5:   
-On branch master
+On branch master  
 
-No commits yet
+No commits yet  
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
